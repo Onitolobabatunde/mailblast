@@ -1,0 +1,12 @@
+email,name,sender_name,company
+yaakov@regionalcarenetwork.com,Yaakov Meltzer,Abe Saladores
+dzimmerman@cherryroad.com,Derek Zimmerman,Kris Miller
+kiesha.pons@hsfkramer.com,Kiesha Pons,Luis Clouet
+dgray@mstransverse.com,Dorianna Gray-Little,Bryce Wallace
+vgonzalez@barcelonawinebar.com,Vladimir Gonzalez,Isamar Martinez
+mschor@usnews.com,Melanie Schor,Miguel Clavel
+celeny.tavarez@equinox-hotels.com,Celeny Tavarez,Thomas Lockamy
+rkinch@glwd.org,Ruthie Kinch,Jonathan Gaffney
+cforestire@paxos.com,Christine Forestire,Patrick Casal
+ali@thetwentytwo.com,Millwater,Brigida Pes
+stephen.reilly@zoetis.com,Stephen,Ahmed Eldeen
